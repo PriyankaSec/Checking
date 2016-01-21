@@ -2,7 +2,7 @@
 
 <p>More details are available in the following topics.</p>
 
- * [GettingStarted.html](https://github.com/PriyankaGrapecity/finalgithub/wiki)
+ * [GettingStarted.html](https://github.com/PriyankaSec/Checking/wiki)
 <ul>
    
 
